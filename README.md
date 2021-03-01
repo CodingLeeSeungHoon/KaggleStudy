@@ -1,1 +1,1 @@
-# StudyZone
+# Kaggle Study
